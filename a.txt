@@ -4,7 +4,6 @@ three
 four
 five
 dfa
-:
 color
 dddddd color2
 color1
